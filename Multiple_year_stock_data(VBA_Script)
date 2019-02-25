@@ -1,4 +1,4 @@
-'From the beginning I was writing a script that works for all sheets.
+'From the beginning I was writing a script that run on every worksheet.
 
 Sub Total_stock_volume()
     Dim ws As Worksheet
