@@ -1,3 +1,5 @@
+'From the beginning I was writing a script that works for all sheets.
+
 Sub Total_stock_volume()
     Dim ws As Worksheet
     Dim Ticker As String
